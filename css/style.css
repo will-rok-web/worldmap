@@ -1,0 +1,79 @@
+.mapContainer {
+	height: 768px;
+	width: 100%;
+	position: relative;
+	background: url("map.png") 100% 100% no-repeat; /* Добавляем фон */
+    background-size: cover;;
+}
+/*.mapContainer {
+	height: 768px;
+	width: 100%;
+	position: relative;	
+}
+.img{
+	height: 100%;
+	width: 100%;
+}*/
+.a {
+	font-weight: bold;
+	color: #b0b0b0 !important;
+}
+.a:hover{
+	text-decoration: none;
+}
+.a:active{
+	text-decoration: none;
+}
+.a:visited{
+	text-decoration: none;
+}
+.Russia {
+	position: absolute;
+	top: 18%;
+	left: 71%;
+}
+.Egypt {
+	position: absolute;
+	top: 40%;
+	left: 54%;
+}
+.Emirates {
+	position: absolute;
+	top: 42%;
+	left: 60%;
+}
+.Thailand {
+	position: absolute;
+	top: 42%;
+	left: 74%;
+}
+.Shrilanka {
+	position: absolute;
+	top: 48%;
+	left: 68%;
+}
+.Spain {
+	position: absolute;
+	top: 33%;
+	left: 44%;
+}
+.Maldives {
+	position: absolute;
+	top: 52%;
+	left: 64%;
+}
+.Cuba {
+	position: absolute;
+	top: 42%;
+	left: 22%;
+}
+.Bulgaria{
+	position: absolute;
+	top: 32%;
+	left: 50%;
+}
+.Turkey{
+	position: absolute;
+	top: 34%;
+	left: 54%;
+}
